@@ -12,6 +12,7 @@ while True:
 #подсчитывает сколько 1 и 0 в строке
     count_ones = bits.count('1')
     count_zero = bits.count('0')
+count_jgfjfgluy
 #проверка количества 1 и 0
     if count_ones + count_zero != 8:        
         print( "Ошибка: Последовательность должна состоять из 8 бит") 
